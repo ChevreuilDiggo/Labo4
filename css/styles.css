@@ -1,6 +1,7 @@
 body{
     background-image:url(images/lestuques2.jpg);
     background-size: cover;
+    background-position: center;
     font-family: 'Times New Roman', Times, serif;
 }
 
