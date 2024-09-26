@@ -1,7 +1,9 @@
 body{
-    background-image:url("/css/images/les_tuques.jpg");
+    background-image:url("/css/images/cinema.jpg");
     background-size: cover;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 20px;
+    color:white;
 }
 
 h2{
@@ -10,7 +12,14 @@ h2{
 }
 
 .film{
-    font-size:large;
-    font-weight: bolder;
-    color:blue;   
+    list-style-type:upper-latin;
+}
+
+.acteur{
+    list-style-type: disc;
+}
+
+.réalisateurs{
+    color:yellowgreen;
+    font-size: 25px;
 }
