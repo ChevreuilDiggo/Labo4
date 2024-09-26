@@ -1,5 +1,6 @@
 body{
-    background-image: url("images/les_tuques.jpg");
+    background-image:url("les_tuques.jpg");
+    background-size: cover;
     font-family: 'Times New Roman', Times, serif;
 }
 
