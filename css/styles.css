@@ -1,5 +1,5 @@
 body{
-    background-image:url("/css/images/cinema.jpg");
+    background-image:url("../css/images/cinema.jpg");
     background-size: cover;
     font-family: 'Courier New', Courier, monospace;
     padding-left: 20px;
